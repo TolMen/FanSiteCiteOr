@@ -1,6 +1,6 @@
 /* CSS de base */
 
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&family=Press+Start+2P&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
 
 * {
     margin: 0;
@@ -11,10 +11,10 @@
     font-family: "Poppins", sans-serif;
 }
 
-/*
+/* 
 html,
 body {
     width: 100vw;
     height: 100vh;
-}
+} 
 */
